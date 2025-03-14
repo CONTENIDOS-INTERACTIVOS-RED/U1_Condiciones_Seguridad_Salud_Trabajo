@@ -158,7 +158,7 @@ export default {
             id: 2,
             texto:
               '¿Qué norma establece el Sistema General de Riesgos Laborales en Colombia?',
-            imagen: require('@/assets/actividad/imagen1.png'),
+            imagen: require('@/assets/actividad/imagen2.png'),
             barajarRespuestas: true,
             opciones: [
               {
@@ -189,7 +189,7 @@ export default {
             id: 3,
             texto:
               '¿Qué entidad supervisa el cumplimiento de la Ley 1562 de 2012?',
-            imagen: require('@/assets/actividad/imagen1.png'),
+            imagen: require('@/assets/actividad/imagen3.png'),
             barajarRespuestas: true,
             opciones: [
               {
@@ -220,7 +220,7 @@ export default {
             id: 4,
             texto:
               'La Resolución 0312 de 2019 establece estándares mínimos para:',
-            imagen: require('@/assets/actividad/imagen1.png'),
+            imagen: require('@/assets/actividad/imagen4.png'),
             barajarRespuestas: true,
             opciones: [
               {
